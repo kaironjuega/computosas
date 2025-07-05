@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ComputoSAS.Main" />
+    <module name="computosas" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/computosas/computosas/src/ComputoSAS" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
